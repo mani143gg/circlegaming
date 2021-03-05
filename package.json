@@ -1,6 +1,8 @@
 {
   "name": "discord-rpc",
   "version": "1.0.0",
+  "engines": {
+   "node": "14.x"}
   "description": "Discord RPC",
   "main": "index.js",
   "dependencies": {
